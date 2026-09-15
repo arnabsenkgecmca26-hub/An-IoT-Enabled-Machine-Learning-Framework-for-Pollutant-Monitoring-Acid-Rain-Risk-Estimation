@@ -15,7 +15,7 @@ Developed for the fulfilment for MCA Major Project at **Kalyani Government Engin
 
 # 📌 Project Overview
 
-This project integrates **IoT**, **Machine Learning**, **Cloud Database**, and **Environmental APIs** to build a real-time Acid Rain Prediction System.
+This project integrates **IoT**, **Machine Learning**, **Cloud Database**, and **Environmental APIs** to build a real-time Acid Rain Risk Estimation System.
 
 The ESP32 continuously collects environmental data from multiple sensors and transmits it to a Flask backend. The backend combines sensor data with live pollutant information from the OpenWeather Air Pollution API, stores the data in InfluxDB, and predicts the acid rain risk using an XGBoost Machine Learning model.
 
