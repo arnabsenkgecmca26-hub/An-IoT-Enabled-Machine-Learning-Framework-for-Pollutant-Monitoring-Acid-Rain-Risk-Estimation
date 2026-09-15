@@ -9,7 +9,7 @@
 
 An IoT-enabled Machine Learning Framework for **Real-Time Pollutant Monitoring and Acid Rain Risk Estimation**.
 
-Developed as the MCA Major Project at **Kalyani Government Engineering College**.
+Developed for the fulfilment for MCA Major Project at **Kalyani Government Engineering College**.
 
 ---
 
